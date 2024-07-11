@@ -11,7 +11,7 @@
   
 - 🌱 I’m deepening my knowledge in the **MERN Stack** (MongoDB, Express.js, React, Node.js).
 
-- 👨‍💻 All of my projects are available at [My Portfolio](https://your-portfolio-link.com)
+- 👨‍💻 All of my projects are available at [My Portfolio](https://www.linkedin.com/in/ianandpandey/)
 
 - 💬 Ask me about **JavaScript, React, Node.js, and Blockchain Development**
 
